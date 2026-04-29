@@ -1,81 +1,72 @@
-# 👨‍💻 Vinicius Jesus Silva
+<div align="center">
 
-```diff
-+ Artificial Intelligence | Data Science | End-to-End Solutions
-```
+# Vinicius Jesus Silva
+
+**Artificial Intelligence • Data Science • End-to-End Solutions**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinicius--j--s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-j-s/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusdejesussilva12@gmail.com)
+
+</div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I work with Artificial Intelligence applied to solving real-world problems, combining academic and professional experience in a continuous journey of growth and development.
+I work with Artificial Intelligence applied to real-world problem solving, combining academic research, software development, automation, and data analysis.
 
 My work covers the full lifecycle of AI solutions:
 
-* Data collection (automation)
-* Data structuring and analysis
-* Engineering and system development
-* Model application and insight generation
+- Data collection and automation
+- Data structuring, analysis, and visualization
+- Software engineering and system development
+- Machine learning, fine-tuning, and model application
+- Insight generation with business and practical impact
 
-I have research experience in the field of AI, working with machine learning, model fine-tuning, and integrated data analysis, in addition to contributing to academic and applied projects focused on concrete challenges.
+I have experience in academic and applied AI projects involving machine learning, model fine-tuning, integrated data analysis, sensor data, and multidisciplinary collaboration.
 
-My background also includes international experience in data projects, connecting research, technology, and multidisciplinary collaboration in analytically complex environments.
+<div align="center">
 
-My foundation in software development and automation complements this work, enabling me to build **end-to-end AI solutions** with a strong business perspective, execution capability, and a focus on practical impact.
+<img src="https://static.wikia.nocookie.net/dragonball/images/e/ed/KidGohanDoingHomework.gif/revision/latest?cb=20110507014259" width="260" alt="Kid Gohan doing homework" />
 
----
-
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=V1n1c1usJS&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1n1c1usJS&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
 ---
 
-## 🎓 Academic Background
+## Research & Projects
+
+| Project | Focus |
+| --- | --- |
+| **The Impacts of Air Pollution on Health** | Real-time sensor data analysis |
+| **Failure Prediction in Electric Motors** | Machine learning applied to industrial data |
+| **Fine-Tuning Mistral-7B with QLoRA** | Financial and industrial data analysis |
+| **UniSenai Conference** | ML models and visual analytics for failure prediction |
+| **REMAMA Extension Project** | Sensor-integrated garment for monitoring and rehabilitation |
+| **FREnTE Exchange Program** | Brazil-USA research collaboration with UFMS, SENAI-SP, Georgia Southern University, and ISI Biomass |
+
+---
+
+## Academic Background
 
 **SENAI São Caetano do Sul – Cyber & IA**  
-*Higher Education Technology (CST), Data Science*
+Higher Education Technology (CST), Data Science
 
-**Activities & Societies**
+**Activities**
 
-* Undergraduate Research
-* Extension Project
-* UniSenai Conference
-* Exchange Program
-
----
-
-## 🔬 Research & Projects
-
-* **The Impacts of Air Pollution on Health**  
-  Analysis using real-time sensors
-
-* **Failure Prediction in Electric Motors**  
-  Machine Learning applied to industrial data
-
-* **Fine-Tuning Mistral-7B with QLoRA**  
-  Integrated analysis of financial and industrial data
-
-* **UniSenai Conference**  
-  Integration of ML models and visual analytics for failure prediction
-
-* **Extension Project (REMAMA)**  
-  Sensor-integrated garment for real-time monitoring and rehabilitation support
-
-* **Exchange Program (Brazil 🇧🇷 – USA 🇺🇸)**  
-  FREnTE Project  
-  *(UFMS – Senai São Paulo – Georgia Southern University – ISI Biomass)*
+- Undergraduate Research
+- Extension Project
+- UniSenai Conference
+- Exchange Program
 
 ---
 
-<p align="center">
-  <img src="https://static.wikia.nocookie.net/dragonball/images/2/21/GohanSuperSaiyan2Teen.png" width="200" alt="Gohan Super Saiyan 2" />
-</p>
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=viniciusjsdev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjsdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
 
 ---
-
-## 📫 Contact
-
-* 💼 LinkedIn: [https://www.linkedin.com/in/vinicius-j-s/](https://www.linkedin.com/in/vinicius-j-s/)
-* 📧 Email: [viniciusdejesussilva12@gmail.com](mailto:viniciusdejesussilva12@gmail.com)
