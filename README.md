@@ -64,9 +64,17 @@ Higher Education Technology (CST), Data Science
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=viniciusjsdev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=21600" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusjsdev&theme=tokyonight" alt="GitHub profile summary" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjsdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=21600" alt="Top languages" />
+<br/><br/>
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusjsdev&theme=tokyonight" alt="GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniciusjsdev&theme=tokyonight" alt="Most used languages" />
+
+<br/><br/>
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusjsdev&theme=tokyonight" alt="Repos per language" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viniciusjsdev&theme=tokyonight&utcOffset=-3" alt="Productive time" />
 
 </div>
 
