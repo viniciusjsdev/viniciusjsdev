@@ -64,17 +64,12 @@ Higher Education Technology (CST), Data Science
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusjsdev&theme=tokyonight" alt="GitHub profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusjsdev&theme=tokyonight" alt="GitHub profile details" />
 
 <br/><br/>
 
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusjsdev&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniciusjsdev&theme=tokyonight" alt="Most used languages" />
-
-<br/><br/>
-
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusjsdev&theme=tokyonight" alt="Repos per language" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viniciusjsdev&theme=tokyonight&utcOffset=-3" alt="Productive time" />
 
 </div>
 
